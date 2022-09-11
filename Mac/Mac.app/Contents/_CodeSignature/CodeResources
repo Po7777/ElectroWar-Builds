@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Data/Managed/Assembly-CSharp.dll</key>
 		<data>
-		n760/JuIHNsjg/tT+IopQAVwK/A=
+		J9DNDLxK1Q9qe3TxNfOp9GT/5bQ=
 		</data>
 		<key>Resources/Data/Managed/Mono.Security.dll</key>
 		<data>
@@ -534,7 +534,7 @@
 		</data>
 		<key>Resources/Data/StreamingAssets/aa/StandaloneOSX/localization-assets-shared_assets_all.bundle</key>
 		<data>
-		uTVFQfNlObglkPCzXz/8ofKpxPs=
+		a4L8/4Z5CwqxVgUP0Y9mOsEF7yw=
 		</data>
 		<key>Resources/Data/StreamingAssets/aa/StandaloneOSX/localization-locales_assets_all.bundle</key>
 		<data>
@@ -542,15 +542,15 @@
 		</data>
 		<key>Resources/Data/StreamingAssets/aa/StandaloneOSX/localization-string-tables-english(en)_assets_all.bundle</key>
 		<data>
-		zq7GMe5TXNAeOtx6mfOJ3MBbsGk=
+		8wsfYo1YR//jBbulLEVhmb79pBU=
 		</data>
 		<key>Resources/Data/StreamingAssets/aa/StandaloneOSX/localization-string-tables-french(fr)_assets_all.bundle</key>
 		<data>
-		t530WGyjab21IdP1gp3QAzUBQYY=
+		LKPhKVgWpl56qexBrv7Dd2ulGsY=
 		</data>
 		<key>Resources/Data/StreamingAssets/aa/catalog.json</key>
 		<data>
-		v9y79PxfYiKIrr7omFGtPjC85qc=
+		fHf5/PQ9rKW3KFTCieSLfmqIbMY=
 		</data>
 		<key>Resources/Data/StreamingAssets/aa/settings.json</key>
 		<data>
@@ -566,11 +566,11 @@
 		</data>
 		<key>Resources/Data/globalgamemanagers</key>
 		<data>
-		fTQEU/mhbciC1dOsDZLRsKcSLqk=
+		RaewmKkws/ZoEwxFaq76hytbtdU=
 		</data>
 		<key>Resources/Data/globalgamemanagers.assets</key>
 		<data>
-		WTrDBy8NAaV7hkXsqkuAI9UA5Ko=
+		b1AUsDBa6ezeOpwIazX1+Wvp008=
 		</data>
 		<key>Resources/Data/globalgamemanagers.assets.resS</key>
 		<data>
@@ -578,7 +578,7 @@
 		</data>
 		<key>Resources/Data/level0</key>
 		<data>
-		EmLHCHpqW1ngFwrlT9DpZEinODw=
+		2pOK8Q7facO8Isaj9tOW1r61Otc=
 		</data>
 		<key>Resources/Data/level0.resS</key>
 		<data>
@@ -586,7 +586,7 @@
 		</data>
 		<key>Resources/Data/level1</key>
 		<data>
-		5JBi/yM4rfTOz4hXeIW/Lij4xZ4=
+		H4qc/Btr2Nh0wapQjSC8aoyNxUs=
 		</data>
 		<key>Resources/Data/level1.resS</key>
 		<data>
@@ -805,16 +805,16 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			I9zZo3kyC6c1/jNz0exp/i5Rog0=
+			Fm1KDaui3oPednU61IxsfZI7U+s=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"23dcd9a379320ba735fe3373d1ec69fe2e51a20d" or cdhash H"e6d7d7a151120f95a5a90113b67ad834173767a1"</string>
+			<string>cdhash H"166d4a0daba2de83de76753ad48c6c7d923b53eb" or cdhash H"74602f906807d75c79ea129cf2adbe4d8f675c0a"</string>
 		</dict>
 		<key>Resources/Data/Managed/Assembly-CSharp.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6h7biWClm6iawip0iNuWLzrm5H08LRKQ0uNwMCUSk34=
+			FxAbcIE5kPmiammERQBO+65EN6HK2qidlZ7oPFICbjs=
 			</data>
 		</dict>
 		<key>Resources/Data/Managed/Mono.Security.dll</key>
@@ -1738,7 +1738,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LddgQ5Ofued68D/U8F8tANLFz4XHeZiEk/3ie3eoEv0=
+			K8GmNNmte0Tt+fPsq92csKdiMJEgOZqf0J9PR1IBbD0=
 			</data>
 		</dict>
 		<key>Resources/Data/StreamingAssets/aa/StandaloneOSX/localization-locales_assets_all.bundle</key>
@@ -1752,21 +1752,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Byba4cdN6TO5siVp0BNN1kWe6VO/OBwdUzkHifsNEWI=
+			AXi/zxNdS6Q3fp05U7FECfHeADfFnxgXKbf6Kw3eprY=
 			</data>
 		</dict>
 		<key>Resources/Data/StreamingAssets/aa/StandaloneOSX/localization-string-tables-french(fr)_assets_all.bundle</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MFqdra2kxlDKSXP3hAIzPyObYJdcF+8TOsuEd7p39ms=
+			WPdIZZZOk8L3LG54QDnaOtLxEmiQecR0UyHcmauhxc0=
 			</data>
 		</dict>
 		<key>Resources/Data/StreamingAssets/aa/catalog.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1fgGd29YIU9a7sUQPQiPKpxnsN+teKzFlD+M+X9lULk=
+			+l7kp0wX1RHVPOJKu53lVAPOJh9XK3f6+VVFBWIt5pY=
 			</data>
 		</dict>
 		<key>Resources/Data/StreamingAssets/aa/settings.json</key>
@@ -1794,14 +1794,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zMsBnPhzkvMcc4dPSbNq9Y8L/yox+UQgAPq7Kr6zgD0=
+			Raj96iDHh+Xj4/GIJSFtv0+rq8dd+mtZPswfZOPG4QI=
 			</data>
 		</dict>
 		<key>Resources/Data/globalgamemanagers.assets</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GErNCmFPY9Mht+M6Pcm+m5lIqa1hIVwgEkBx5O3PIAs=
+			1Uk/vEYZRcjussbYWRgbVa98g0ush2cWAOEv+rSce8w=
 			</data>
 		</dict>
 		<key>Resources/Data/globalgamemanagers.assets.resS</key>
@@ -1815,7 +1815,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XSo7TgozDakY+fQyjSrIi54Vsd4cPhYECO9PRW7MgPg=
+			UT847LNYwD50phUBbwdJpDxbYms04a1TFtQ4yPaDJ9k=
 			</data>
 		</dict>
 		<key>Resources/Data/level0.resS</key>
@@ -1829,7 +1829,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+pNh3g8ZFl/ZJG5izUVtKXlkoWEyGiKUx9qrJvjrbsI=
+			IX6BNYLQFukRZkPukQ67iEjT4yLZT1sLgQUd5nf8xhU=
 			</data>
 		</dict>
 		<key>Resources/Data/level1.resS</key>
